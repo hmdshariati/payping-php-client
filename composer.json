@@ -4,8 +4,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "farhad lotfeali",
-      "email": "flotfeali@gmail.com"
+      "name": "hamid shariati (forked from farhad lotfeali)",
+      "email": "hmdshariati@aol.com"
     }
   ],
   "autoload": {
